@@ -1,0 +1,29 @@
+<DOCTYPE html>
+<html>
+  <head>
+     <title>BABU TECHNOGIES</title>
+   </head>  
+   <body><div class="header">
+   <img src="logo.jpg" height="100px" width="100px">
+   <div class="menu">
+       <a href="index.html"> Home </a> |
+       <a href="about.html"> About </a> |
+       <a href="contact.html"> contact </a> |
+
+        </div>
+        
+        </div> 
+
+      <div class="header">
+         
+      </div>
+      <div class="main-content">
+      <div class="main-content">
+   <p>Free hana server access,SAP online Access,SAP access online,SAP hana access control, * SAP S4 hana online Access|Remote Access. * SAP S4HANA PO 7.5 online Access|Remote Access. * SAP Hybris online Access|Remote Access. * SAP ECC6 EHP8 online Access|Remote Access. * SAP HANA online Access|Remote Access. * SAP BW/4HANA online Access|Remote Access. * SAP BPC11 online Access|Remote Access. *SAP Simple Finance online Access|Remote Access. * SAP Simple Logistics online Access|Remote Access. * SAP CAR(customer activity repository)online Access|Remote Access. * SAP RAR(Revenue According and Recognition)online Access|Remote Access. * SAP SCREEN PERSONAS online Access|Remote Access. * SAP Gate way online Access|Remote Access. * SAP S4HANA EWM online Access|Remote Access. * SAP FIORI online Access|Remote Access. * SAP APO online Access|Remote Access. * SAP EWM online Access|Remote Access. * SAP SCM IDEAS online Access|Remote Access. * SAP CRM EHP4 online Access|Remote Access. * SAP GTS online Access|Remote Access. * SAP TM(Transport Management) online Access|Remote Access. * SAP FIORI online Access|Remote Access. * SAP HYBRIS CC&CI online Access|Remote Access. * SAP CC(Convergent Charging)online Access|Remote Access. * SAP BO/BW 7.5 online Access|Remote Access. *SAP ATTP ( Advanced Track and Trace for Pharmaceuticals) *SAP GRC10.1 & GRC12 online Access | Remote Access *SAP SD Ides online Access | Remote Access *SAP MM Ides online Access | Remote Access *SAP FICO Ides online Access |Remote Access. *SAP HR Ides online Access | Remote Access *SAP EWM 9.5 online Access | Remote Access *SAP WM Ides online Access | Remote Access SAP PPM Ides online Access | Remote Access SAP ABAP Ides online Access | Remote Access SAP PLM Ides online Access | Remote Access Search... Recent Posts free hana server access | Sap online access -www.Babu-technologies.com free online sap ides ecc 6.0 access | Sap online access -www.Babu-technologies.com free sap hana server access | Sap online access -www.Babu-technologies.com free sap server access for practice | Sap online access -www.Babu-technologies.com grant schema access to user in hana | Sap online access -www.Babu-technologies.com </p>
+   </div>
+
+      <div class="footer">
+
+      </div>
+    </body>  
+  </html>  
